@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+    "graphviz-interactive-preview.renderLockAdditionalTimeout": 2000,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "stylelint.enable": false,
+    "tailwindCSS.experimental.classRegex": [
+      "tw`([^`]*)",
+      "tw=\"([^\"]*)",
+      "tw={\"([^\"]*)",
+      "tw\\.\\w+`([^`]*)"
+    ],
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false
+  }
+  
