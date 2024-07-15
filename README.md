@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### Working Video
 
-<video src="./WorkingVideo.mp4" width="320" height="240" controls></video>
+[![Watch the video](thumbnail.png)](WorkingVideo.mp4)
 
 ### Installation
 
