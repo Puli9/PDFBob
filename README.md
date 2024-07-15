@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### Working Video
 
-<iframe width="560" height="315" src="./WorkingVideo.mp4" frameborder="0" allowfullscreen></iframe>
+<video src="./WorkingVideo.mp4" width="320" height="240" controls></video>
 
 ### Installation
 
